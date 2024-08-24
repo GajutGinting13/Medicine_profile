@@ -84,7 +84,7 @@
                 <ul class="navbar-nav navbar_nav_modify" id="scroll-spy">
                   <li class="nav-item"><a class="nav-link" href="#fitur">Fitur Unggulan</a></li>
                   <li class="nav-item"><a class="nav-link" href="#frameworks">Teknologi</a></li>
-                  <li class="nav-item"><a class="nav-link" href="#components">Components</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#components">Mitra</a></li>
                   <li class="nav-item buy-btn"><a class="nav-link js-scroll" href="checkout.php" target="_blank">Beli</a></li>
                 </ul>
               </div>
